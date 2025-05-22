@@ -1,6 +1,5 @@
 package j0519;
 
-import java.io.InputStream;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 

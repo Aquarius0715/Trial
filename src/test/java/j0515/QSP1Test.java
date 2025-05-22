@@ -1,6 +1,7 @@
 package j0515;
 
 import j0515.QSP1;
+import j0522.QSP2;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -54,6 +55,7 @@ public class QSP1Test {
 
         // 代表値
         assertThat(QSP1.getGPA(99)).isEqualTo("S");
+
     }
 
     @Test
